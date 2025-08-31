@@ -44,8 +44,15 @@
               vcpkg-tool
 
               SDL2
+              xorg.libX11
+              xorg.libXcursor
+              xorg.libXrandr
+              xorg.libXi
+              xorg.libXau
+              xorg.libxcb
+              xorg.libXinerama
+              xorg.xkbutils
               vk-bootstrap
-
               glslang
               vulkan-loader
               vulkan-helper
